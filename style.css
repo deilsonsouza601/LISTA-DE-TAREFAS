@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size:  16px;
+    cursor:pointer;
+
+}
+
+.btn-primary:hover {
+    background-color: rgb( 24, 108, 192);
+}
+.completed{
+    text-decoration: line-through;
+    color: #010101;
+}
